@@ -11,6 +11,6 @@
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/prakoso-dwika-0280bb210/">
-    <img style="padding:0px 5px;" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img style="padding:0px 20px;" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </p>
