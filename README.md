@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/prakoso-dwika-0280bb210/" target="_blank"><img align="left" alt="Prakoso Dwika | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://www.instagram.com/prakosodwika" target="_blank"><img align="left" alt="Prakoso Dwika | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/prakosodwikaa" target="_blank"><img align="left" alt="Prakoso Dwika | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+  <a href="https://www.linkedin.com/in/prakoso-dwika-0280bb210/" target="_blank"><img align="left" alt="Prakoso Dwika | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a href="https://www.instagram.com/prakosodwika" target="_blank"><img align="left" alt="Prakoso Dwika | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+  <a href="https://twitter.com/prakosodwikaa" target="_blank"><img align="left" alt="Prakoso Dwika | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 </div>
