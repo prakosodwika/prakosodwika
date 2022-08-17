@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Prakoso D<span style="color: #328DD8">wika<span></h1>
+<h1 align="center">Hi , I'm Prakoso D<a href="https://www.linkedin.com/in/prakoso-dwika/" target="_blank">wika</a></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&width=435&lines=I'm+a+student+in+Bali.;Welcome+to+my+GitHub+page." alt="Typing SVG" /></a>
 </p>
