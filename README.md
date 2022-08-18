@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Prakoso <a href="www.linkedin.com/in/prakosoDwika" target="_blank">Dwika</a></h1>
+<h1 align="center">Hi , I'm Prakoso <a href="https://www.linkedin.com/in/prakosodwika" target="_blank">Dwika</a></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&width=435&lines=I'm+a+student+in+Bali.;Welcome+to+my+GitHub+page." alt="Typing SVG" /></a>
 </p>
 
 <h3 align="center"> Connect with me </h3>
 <div align="center">
-   <a href="https://www.linkedin.com/in/prakoso-dwika/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-171A20?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
+   <a href="https://www.linkedin.com/in/prakosodwika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-171A20?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/prakosodwika" target="_blank"><img src="https://img.shields.io/badge/Instagram-171A20?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
   <a href="https://twitter.com/prakosodwikaa" target="_blank"><img src="https://img.shields.io/badge/Twitter-171A20?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"></a>
 </div>
