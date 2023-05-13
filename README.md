@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-171A20?style=for-the-badge&logo=bootstrap&logoColor=563D7C">
   <img src="https://img.shields.io/badge/Express.js-171A20?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-171A20?style=for-the-badge&logo=nodedotjs&logoColor=339933">
-  <img src="https://img.shields.io/github/downloads/prakosodwika/prakosodwika/total?label=Vue%20js&logo=vuedotjs&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vue.js-171A20?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   
   <img src="https://img.shields.io/badge/Visual_Studio_Code-171A20?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4">
   <img src="https://img.shields.io/badge/Visual_Studio_2019-171A20?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
